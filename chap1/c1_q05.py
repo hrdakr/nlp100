@@ -15,6 +15,18 @@ def letter_n_gram(n, sentence):
 def word_n_gram(n, sentence):
     words = sentence.split()
     x = []
+    for i in range(len(words)):
+        if i + n <= len(words):
+            x.append(words[i:i+n])
+        else:
+            break
+    return x
+
+
+"""
+def word_n_gram(n, sentence):
+    words = sentence.split()
+    x = []
     for word in words:
         if len(word) <n :
             x.append(word)
@@ -26,6 +38,7 @@ def word_n_gram(n, sentence):
                     break
     return x
 
+"""
 
 print(letter_n_gram(2, "I am an NLPer"))
 print(word_n_gram(2, "I am an NLPer"))

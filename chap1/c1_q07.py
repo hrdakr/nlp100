@@ -2,8 +2,7 @@
 
 print("A.07")
 
-x = input("何時の？")
-y = input("何が？")
-z = input("何なの？")
+def f_seq(x,y,z):
+    print( '%s 時の %s は %s ' % ( x, y, z ) )
 
-print( '%s 時の %s は %s ' % ( x, y, z ) )
+f_seq(12,"気温",22.4)
