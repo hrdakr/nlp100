@@ -1,6 +1,6 @@
 #I solved the chapter1 of nlp100 in https://nlp100.github.io/ja/ch02.html 
 
-N = 20
+N =int( input())
 x = 0
 with open('A14.txt', 'w') as g:
     with open('popular-names.txt','r') as f:
