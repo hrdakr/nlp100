@@ -360,7 +360,7 @@
 {{main|イギリスの企業一覧}}
 
 ====通信====
-{{Main|{{仮リンク|イギリスの情報通信|en|Telecommunications in the United Kingdom}}}}
+{{Main|{{仮リンク|イギリスの通信|en|Telecommunications in the United Kingdom}}}}
 イギリスでは、ヒースロー空港などにある自動販売機で[[SIMカード]]が購入できる。[[プリペイド|プリペイド式]]となっており、スーパーなどで、通話・通信料をチャージして使う。
 
 おもな通信業者
