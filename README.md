@@ -1,6 +1,11 @@
+
 # nlp100
-# nlp100
-my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
+my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)\\
+
+
+I referenced [my friend's Github](https://github.com/seiya8/nlp100/blob/main/README.md) to create this file.
+Thank you so much !
+
 
 |Chapter|No.|Title|Python|
 |---|---|---|---|
